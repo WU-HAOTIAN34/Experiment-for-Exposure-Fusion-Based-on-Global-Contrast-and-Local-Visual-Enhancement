@@ -1,1 +1,1 @@
-# Experimental-for-Exposure-Fusion-Based-on-Global-Contrast-and-Local-Visual-Enhancement
+# Experiment-for-Exposure-Fusion-Based-on-Global-Contrast-and-Local-Visual-Enhancement
